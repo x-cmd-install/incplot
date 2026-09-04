@@ -7,7 +7,7 @@ about:
   head: 25b63df
   archived: false
   latestVersion: v1.0.3
-  collectedAt: 2026-09-04T19:26:44Z
+  collectedAt: 2026-09-04T21:06:37Z
 timeline:
   created: 2025-05-03
   lastCommit: 2026-07-18
@@ -81,5 +81,48 @@ total:
   openIssue: 1
   commit: 240
 ---
+path: /home/runner/.x-repo/github.com/InCom-0/incplot
+collectedAt: 2026-09-04T21:06:38Z
+loc:
+  CMake:
+    code: 2310
+    comments: 666
+    blanks: 424
+    files: 14
+  Cpp:
+    code: 1471
+    comments: 148
+    blanks: 265
+    files: 3
+  CppHeader:
+    code: 388
+    comments: 22
+    blanks: 91
+    files: 4
+  Json:
+    code: 257
+    comments: 0
+    blanks: 0
+    files: 1
+  Autoconf:
+    code: 25
+    comments: 4
+    blanks: 12
+    files: 2
+  Markdown:
+    code: 0
+    comments: 211
+    blanks: 83
+    files: 2
+  Text:
+    code: 0
+    comments: 34
+    blanks: 8
+    files: 2
+total:
+  code: 4466
+  comments: 1091
+  blanks: 883
+  files: 28
 ---
 
