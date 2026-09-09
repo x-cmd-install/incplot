@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.3"
   latestRelease: "v1.0.3"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:29:10Z
+  collectedAt: 2026-09-09T19:19:53Z
 timeline:
   created: 2025-05-03
   lastCommit: 2026-07-18
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-19
   lastPrerelease: 
 popularity:
-  star: 104
+  star: 105
   watcher: 2
   fork: 3
   release: 20
@@ -84,7 +84,7 @@ total:
   commit: 240
 ---
 path: /home/runner/.x-repo/github.com/InCom-0/incplot
-collectedAt: 2026-09-09T05:29:11Z
+collectedAt: 2026-09-09T19:19:53Z
 loc:
   CMake:
     code: 2310
