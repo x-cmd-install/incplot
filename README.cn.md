@@ -4,7 +4,7 @@
 
 CLI tool for drawing great looking plots in the terminal and in HTML focused on user ergonomics and simplicity
 
-![incplot](https://repo.x-cmd.io/incplot.svg)
+![incplot](https://repo.x-cmd.io/incplot.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,14 @@ x install incplot
 - **最新版本**: `v1.0.3` (2026-06-19)
 - **最近提交**: 2026-07-18
 - **Release 含资产**: 3 个
-- **发布时间**: 2026-06-19T09:53:27Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [incplot_windows_msvc_arm64.zip](https://github.com/InCom-0/incplot/releases/download/v1.0.3/incplot_windows_msvc_arm64.zip) | 3.3 MiB | `native/win/arm64` |
+| [incplot_windows_msvc_x86_64.zip](https://github.com/InCom-0/incplot/releases/download/v1.0.3/incplot_windows_msvc_x86_64.zip) | 3.7 MiB | `native/win/x64` |
+| [shasum.txt](https://github.com/InCom-0/incplot/releases/download/v1.0.3/shasum.txt) | 195 B | `other` |
 
 ## 流行度
 
@@ -62,4 +69,4 @@ incplot 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:26:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:00:54Z._

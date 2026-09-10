@@ -23,7 +23,14 @@ x install incplot
 - **Latest**: `v1.0.3` (2026-06-19)
 - **Last commit**: 2026-07-18
 - **Assets in release**: 3
-- **Published**: 2026-06-19T09:53:27Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [incplot_windows_msvc_arm64.zip](https://github.com/InCom-0/incplot/releases/download/v1.0.3/incplot_windows_msvc_arm64.zip) | 3.3 MiB | `native/win/arm64` |
+| [incplot_windows_msvc_x86_64.zip](https://github.com/InCom-0/incplot/releases/download/v1.0.3/incplot_windows_msvc_x86_64.zip) | 3.7 MiB | `native/win/x64` |
+| [shasum.txt](https://github.com/InCom-0/incplot/releases/download/v1.0.3/shasum.txt) | 195 B | `other` |
 
 ## Popularity
 
@@ -58,8 +65,8 @@ Total: **4,451** lines of code across **24** files in the top 5 languages.
 Install metadata for incplot lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `incplot` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/incplot.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/incplot.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:26:20Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T17:00:54Z._
