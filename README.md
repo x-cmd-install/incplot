@@ -12,6 +12,18 @@ CLI tool for drawing great looking plots in the terminal and in HTML focused on 
 x install incplot
 ```
 
+## Code insight
+
+Total: **4,451** lines of code across **24** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| CMake | 2,310 | 666 | 424 | 14 |
+| Cpp | 1,471 | 148 | 265 | 3 |
+| CppHeader | 388 | 22 | 91 | 4 |
+| Json | 257 | 0 | 0 | 1 |
+| Autoconf | 25 | 4 | 12 | 2 |
+
 ## Source
 
 - **Upstream**: <https://github.com/InCom-0/incplot>
@@ -23,14 +35,6 @@ x install incplot
 - **Latest**: `v1.0.3` (2026-06-19)
 - **Last commit**: 2026-07-18
 - **Assets in release**: 3
-
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [incplot_windows_msvc_arm64.zip](https://github.com/InCom-0/incplot/releases/download/v1.0.3/incplot_windows_msvc_arm64.zip) | 3.3 MiB | `native/win/arm64` |
-| [incplot_windows_msvc_x86_64.zip](https://github.com/InCom-0/incplot/releases/download/v1.0.3/incplot_windows_msvc_x86_64.zip) | 3.7 MiB | `native/win/x64` |
-| [shasum.txt](https://github.com/InCom-0/incplot/releases/download/v1.0.3/shasum.txt) | 195 B | `other` |
 
 ## Popularity
 
@@ -45,20 +49,19 @@ x install incplot
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 2 |
 | 90d | 2026-06-12 | 1 | 0 | 0 | 0 | 0 | 6 |
+| last180d | 2026-03-14 | 4 | 0 | 0 | 2 | 1 | 40 |
 | 360d | 2025-09-15 | 12 | 0 | 0 | 6 | 1 | 180 |
+| last720d | 2024-09-20 | 20 | 0 | 0 | 7 | 1 | 240 |
 
-## Code size
+## Release assets
 
-Total: **4,451** lines of code across **24** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| CMake | 2,310 | 666 | 424 | 14 |
-| Cpp | 1,471 | 148 | 265 | 3 |
-| CppHeader | 388 | 22 | 91 | 4 |
-| Json | 257 | 0 | 0 | 1 |
-| Autoconf | 25 | 4 | 12 | 2 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [incplot_windows_msvc_arm64.zip](https://github.com/InCom-0/incplot/releases/download/v1.0.3/incplot_windows_msvc_arm64.zip) | 3.3 MiB | `native/win/arm64` |
+| [incplot_windows_msvc_x86_64.zip](https://github.com/InCom-0/incplot/releases/download/v1.0.3/incplot_windows_msvc_x86_64.zip) | 3.7 MiB | `native/win/x64` |
+| [shasum.txt](https://github.com/InCom-0/incplot/releases/download/v1.0.3/shasum.txt) | 195 B | `other` |
 
 ## Improve this data
 
@@ -69,4 +72,4 @@ Install metadata for incplot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:00:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:33:38Z._
