@@ -4,7 +4,7 @@
 
 CLI tool for drawing great looking plots in the terminal and in HTML focused on user ergonomics and simplicity
 
-[![x-cmd/install — incplot Code Quality Monitoring Repo Card](https://repo.x-cmd.io/incplot.svg)](https://x-cmd.com/install/incplot)
+[![x-cmd/install — incplot Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/incplot.svg)](https://x-cmd.com/install/incplot)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **4,451** lines of code across **24** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last180d | 2026-03-26 | 2 | 0 | 0 | 3 | 0 | 8 |
-| 360d | 2025-09-27 | 11 | 0 | 0 | 6 | 0 | 172 |
-| last720d | 2024-10-02 | 20 | 0 | 0 | 8 | 0 | 240 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last180d | 2026-03-27 | 2 | 0 | 0 | 3 | 0 | 8 |
+| 360d | 2025-09-28 | 11 | 0 | 0 | 6 | 0 | 172 |
+| last720d | 2024-10-03 | 20 | 0 | 0 | 8 | 0 | 240 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for incplot lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:34:28Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:34:50Z._
