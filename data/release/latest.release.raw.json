@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 195,
       "digest": "sha256:89c813d6b7c2866bb183fe9eb334bee09ea80f202ceeef9775e42fba61c4e527",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-06-19T09:53:26Z",
       "updated_at": "2026-06-19T09:53:26Z",
       "browser_download_url": "https://github.com/InCom-0/incplot/releases/download/v1.0.3/shasum.txt"
